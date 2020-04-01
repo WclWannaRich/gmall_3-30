@@ -22,7 +22,7 @@ spring:
             stat-view-servlet:
                 enabled: true
                 url-pattern: /druid/*
-                #login-username: admin
+                #login-username: adminoutis
                 #login-password: admin
             filter:
                 stat:
